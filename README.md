@@ -56,15 +56,15 @@ To run the application locally, follow these steps:
 
 2. **Navigate to the project directory**:
    ```bash
-cd political-fake-news-detector
+    cd political-fake-news-detector
 
 3. **Install the required dependencies**:
    ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. **Run the Streamlit app**:
    ```bash
-streamlit run Home.py
+    streamlit run Home.py
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
