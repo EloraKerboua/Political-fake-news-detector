@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+wordcloud
+textblob
+seaborn
+matplotlib
+scipy
+textstat
+nltk
+imblearn
+contractions
+streamlit
