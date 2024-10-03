@@ -1,11 +1,10 @@
-# Political Fake News Detector
-
 ## Project Overview
 This project aims to combat political misinformation targeting young, first-time voters in the U.S. The platform detects fake news and provides educational resources, empowering users to critically evaluate online information, especially in light of the upcoming 2024 elections.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Data Collection](#data-collection)
+- [Data Files](#data-files)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Model Development](#model-development)
@@ -24,6 +23,20 @@ This project aims to combat political misinformation targeting young, first-time
 
 ## Data Collection
 I merged two Kaggle datasets containing both fake and true news articles, building a robust foundation for training my models. The dataset comprises over 11,000 true articles and nearly 7,000 fake articles, which presented class imbalance that I addressed using SMOTE (Synthetic Minority Over-sampling Technique) combined with ENN (Edited Nearest Neighbors).
+
+## Data Files
+The necessary CSV files:
+- `cleaned_politics_data.csv`
+- `data_model.csv`
+- `Fake.csv`
+- `True.csv`
+
+Since the dataset is too large to include directly in the repository, you can download the data from Google Drive using the links below:
+
+- [cleaned_politics_data.csv]([<Google-Drive-Link-for-cleaned_politics_data.csv>](https://drive.google.com/file/d/1yoXKKKOwXo96FQKq6eX0irw958FwbpRh/view?usp=sharing))
+- [data_model.csv]([<Google-Drive-Link-for-data_model.csv>](https://drive.google.com/file/d/1k0p-9_Sy40ma8mRT_n7PUSLvAfrl3DCg/view?usp=sharing))
+- [Fake.csv]([<Google-Drive-Link-for-Fake.csv>](https://drive.google.com/file/d/1NPLk6Do2l9j4FVApaa3iUoARnaxRMXeI/view?usp=sharing))
+- [True.csv]([<Google-Drive-Link-for-True.csv>](https://drive.google.com/file/d/1jaWE-Y0shzrUdBBFYON7xkuLBp1yMdYV/view?usp=sharing))
 
 ## Exploratory Data Analysis (EDA)
 - **Temporal Analysis**: I observed significant trends in the frequency of fake news over time, noting spikes during critical political events such as the 2016 U.S. election and early 2017 around Donald Trump's inauguration.
