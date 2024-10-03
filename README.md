@@ -33,10 +33,10 @@ The necessary CSV files:
 
 Since the dataset is too large to include directly in the repository, you can download the data from Google Drive using the links below:
 
-- [cleaned_politics_data.csv]([<Google-Drive-Link-for-cleaned_politics_data.csv>](https://drive.google.com/file/d/1yoXKKKOwXo96FQKq6eX0irw958FwbpRh/view?usp=sharing))
-- [data_model.csv]([<Google-Drive-Link-for-data_model.csv>](https://drive.google.com/file/d/1k0p-9_Sy40ma8mRT_n7PUSLvAfrl3DCg/view?usp=sharing))
-- [Fake.csv]([<Google-Drive-Link-for-Fake.csv>](https://drive.google.com/file/d/1NPLk6Do2l9j4FVApaa3iUoARnaxRMXeI/view?usp=sharing))
-- [True.csv]([<Google-Drive-Link-for-True.csv>](https://drive.google.com/file/d/1jaWE-Y0shzrUdBBFYON7xkuLBp1yMdYV/view?usp=sharing))
+- [cleaned_politics_data.csv](https://drive.google.com/file/d/1yoXKKKOwXo96FQKq6eX0irw958FwbpRh/view?usp=sharing)
+- [data_model.csv](https://drive.google.com/file/d/1k0p-9_Sy40ma8mRT_n7PUSLvAfrl3DCg/view?usp=sharing)
+- [Fake.csv](https://drive.google.com/file/d/1NPLk6Do2l9j4FVApaa3iUoARnaxRMXeI/view?usp=sharing)
+- [True.csv](https://drive.google.com/file/d/1jaWE-Y0shzrUdBBFYON7xkuLBp1yMdYV/view?usp=sharing)
 
 ## Exploratory Data Analysis (EDA)
 - **Temporal Analysis**: I observed significant trends in the frequency of fake news over time, noting spikes during critical political events such as the 2016 U.S. election and early 2017 around Donald Trump's inauguration.
